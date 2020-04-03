@@ -5,6 +5,7 @@ const resultDivided = document.getElementById("result-area");
 const tweetDivided = document.getElementById("tweet-area");
 const answers = [
   "{userName}は合格",
+  "{username}は追加合格",
   "{userName}は不合格A",
   "{userName}は不合格B",
   "{userName}は不合格C",
